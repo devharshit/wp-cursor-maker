@@ -16,7 +16,7 @@ Upload and display a custom mouse cursor image on selected pages of your WordPre
 
 **Cursor Maker** allows you to easily change your website’s default mouse pointer to a custom image-based cursor on specific pages. This plugin is perfect for branding, gamification, portfolios, or any creative site wanting to stand out with unique visual effects.
 
-### 🎨 Features
+### 🎨 Plugin Features
 
 - Upload your own custom cursor image (.png, .cur, .gif recommended)
 - Apply the cursor on **selected pages only**
@@ -24,14 +24,14 @@ Upload and display a custom mouse cursor image on selected pages of your WordPre
 - Clean integration with WordPress theme standards
 - Lightweight, no front-end JavaScript dependencies
 
-### 🛠 Use Cases
+### 🛠 Plugin Use Cases
 
 - Add a fun cursor on your landing page
 - Showcase your brand identity with a custom pointer
 - Provide interactive user experience on specific content
 - Great for designers, creatives, or niche stores
 
-== Installation ==
+== Plugin Installation Process ==
 
 1. Upload the plugin folder `cursor-maker` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the **Plugins** menu in WordPress.

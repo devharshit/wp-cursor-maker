@@ -39,7 +39,7 @@ class CursorMaker {
         $pages = get_pages();
         ?>
         <div class="wrap">
-            <h1>Cursor Maker Settings</h1>
+            <h1>SHIN Cursor Maker Settings</h1>
             <form method="post" action="options.php">
                 <?php settings_fields( 'cursor_maker_settings' ); ?>
                 <table class="form-table">
@@ -49,7 +49,7 @@ class CursorMaker {
                         <td>
                             <input type="text" id="cursor_maker_image" name="cursor_maker_image" value="<?php echo $image; ?>" style="width: 60%;" />
                             <input type="button" class="button" id="cursor_maker_upload" value="Upload Image" />
-                            <p class="description">Recommended: Transparent PNG, .cur or .gif. Size: ~32x32px</p>
+                            <p class="description">Recommended File Type: Transparent PNG, .cur or .gif. Size: ~32x32px</p>
                         </td>
                     </tr>
 
